@@ -175,6 +175,8 @@ Client Password: password
 # Swagger URL
 http://domain:port/cbl/swagger-ui.html
 
+# Test API Url
+http://localhost:8080/cbl/secure/rest/v1/getCustomerKyc
 
 
 

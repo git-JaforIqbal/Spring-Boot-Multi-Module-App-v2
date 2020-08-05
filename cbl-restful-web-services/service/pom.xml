@@ -12,10 +12,6 @@
     <artifactId>service</artifactId>
     <packaging>jar</packaging>
     <dependencies>
-        <dependency>
-            <groupId>com.cbl</groupId>
-            <artifactId>application</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
+
     </dependencies>
 </project>
