@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce148515-a996-4a96-a488-ee8419f7f32e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/cbl/service/api/response/ServiceHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/cbl/service/config/Const.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallet/src/main/java/com/cbl/wallet/controller/bkashValidationController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/application/application.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/src/main/java/com/cbl/wallet/controller/bkashTransferController.java" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/src/main/java/com/cbl/wallet/controller/bkashTransferController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/target/classes/com/cbl/wallet/controller/bkashTransferController.class" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/target/classes/com/cbl/wallet/controller/bkashTransferController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/wallet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/wallet.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +78,7 @@
       <workItem from="1596520598311" duration="12382000" />
       <workItem from="1596558456236" duration="5983000" />
       <workItem from="1596623025169" duration="4451000" />
-      <workItem from="1596628695210" duration="4192000" />
+      <workItem from="1596628695210" duration="4618000" />
     </task>
     <servers />
   </component>
