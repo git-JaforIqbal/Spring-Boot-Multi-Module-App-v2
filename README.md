@@ -1,6 +1,12 @@
 # Spring-Boot-Multi-Module-Application-v2
 How to create spring boot multi module application
 
+# Here we you will get 3 module
+```
+1. application [this one is for security and base config]
+2. wallet [this one is for wallet such as Nagad, bKash etc]
+3. service [this one is for common service]
+```
 # Install apache mvn into your system bash_profile for mac os
 ```
 export M2_HOME=/Applications/apache-maven-3.6.3
