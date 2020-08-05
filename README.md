@@ -1,5 +1,5 @@
 # Spring-Boot-Multi-Module-Application-v2
-How to create react multi module application
+How to create spring boot multi module application
 
 # Install apache mvn into your system bash_profile for mac os
 ```
